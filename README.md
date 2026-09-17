@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E97F7,100:6DD5FA&height=200&section=header&text=Hi%20there,%20I'm%20Niluda%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Developer%20from%20Sri%20Lanka&descAlignY=58&descSize=18" alt="header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E97F7,100:6DD5FA&height=200&section=header&text=Hi%20there,%20I'm%20Niluda%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20from%20Sri%20Lanka&descAlignY=58&descSize=18" alt="header banner"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Building+with+HTML%2C+CSS+%26+JS;Backend+with+Java+%26+Python;Working+with+MySQL+Databases;C+Programming+Enthusiast" alt="Typing SVG" />
@@ -21,8 +21,8 @@
 ### 🧑‍💻 About Me
 
 - 🎓 University student — Computer Science, Physics & Chemistry
-- 💻 Interested in web development, backend systems, and databases
-- 🛠️ Currently building projects in **HTML, CSS, JS, Java, Python, C, and MySQL**
+- 💻 Interested in web development, backend and frontend systems, programming
+- 🛠️ Currently building projects in **HTML, CSS, JS, C, and MySQL**
 - 📂 All of my projects are available on my [GitHub profile](https://github.com/niludadisanayaka)
 - 📫 How to reach me: **dissanayakaniluda@gmail.com**
 - ⚡ Fun fact: I enjoy turning ideas into working code, one bug fix at a time 🐛➡️✅
