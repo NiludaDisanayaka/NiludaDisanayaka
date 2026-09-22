@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%20there,%20I'm%20Niluda%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=18" alt="Header"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:2E97F7,100:6DD5FA&height=90&text=Computer%20Science%20Student%20🎓%20|%20Web%20Developer%20🌐%20|%20C%20•%20Java%20•%20Python%20•%20C%23&fontSize=18&fontColor=ffffff&fontAlignY=60&animation=fadeIn" alt="tagline banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=650&height=50&lines=Computer+Science+Student+%F0%9F%8E%93;Web+Development+Enthusiast+%F0%9F%8C%90;C+%7C+Java+%7C+Python+%7C+C%23+Developer;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br>
 
