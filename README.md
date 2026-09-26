@@ -151,7 +151,6 @@ Problem Solving   █████████████████░░░�
 <img src="https://ghchart.rshah.org/2E97F7/niludadisanayaka" width="95%" alt="GitHub Contribution Graph"/>
 
 </div>
----
 
 ## 🎯 Current Goals
 
