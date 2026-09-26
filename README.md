@@ -135,11 +135,9 @@ Problem Solving   █████████████████░░░�
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=niludadisanayaka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=niludadisanayaka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niludadisanayaka&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niludadisanayaka&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
 
 <br><br>
 
@@ -153,10 +151,9 @@ Problem Solving   █████████████████░░░�
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiludaDisanayaka&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=niludadisanayaka&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
 
 </div>
-
 ---
 
 ## 🎯 Current Goals
