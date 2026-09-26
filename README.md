@@ -133,14 +133,25 @@ Problem Solving   █████████████████░░░�
 
 ---
 
-## 📊 GitHub Statistics
-
 <div align="center">
+  <h2>📊 GitHub Statistics</h2>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=niludadisanayaka&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <!-- GitHub General Stats -->
+        <img src="https://github-readme-stats.vercel.app/api?username=niludadisanayaka&show_icons=true&theme=tokyonight&hide_border=true" alt="Niluda's GitHub Stats" width="100%" />
+        <br/><br/>
+        <!-- GitHub Streak Stats -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=niludadisanayaka&theme=tokyonight&hide_border=true" alt="Niluda's GitHub Streak" width="100%" />
+      </td>
+      <td valign="top" width="50%">
+        <!-- Most Used Languages -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niludadisanayaka&layout=normal&theme=tokyonight&hide_border=true&langs_count=8" alt="Niluda's Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 ---
 
