@@ -153,7 +153,7 @@ Problem Solving   █████████████████░░░�
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=niludadisanayaka&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiludaDisanayaka&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
 
 </div>
 
