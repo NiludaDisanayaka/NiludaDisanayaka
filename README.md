@@ -136,21 +136,18 @@ Problem Solving   █████████████████░░░�
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
 
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <!-- GitHub General Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=niludadisanayaka&show_icons=true&theme=tokyonight&hide_border=true" alt="Niluda's GitHub Stats" width="100%" />
-        <br/><br/>
-        <!-- GitHub Streak Stats -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=niludadisanayaka&theme=tokyonight&hide_border=true" alt="Niluda's GitHub Streak" width="100%" />
-      </td>
-      <td valign="top" width="50%">
-        <!-- Most Used Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niludadisanayaka&layout=normal&theme=tokyonight&hide_border=true&langs_count=8" alt="Niluda's Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/niludadisanayaka">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=niludadisanayaka&show_icons=true&theme=tokyonight&hide_border=true" alt="Niluda's GitHub Stats" width="49%" />
+  </a>
+  <a href="https://github.com/niludadisanayaka">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=niludadisanayaka&layout=compact&theme=tokyonight&hide_border=true" alt="Niluda's Top Languages" width="49%" />
+  </a>
+  
+  <br/><br/>
+
+  <a href="https://github.com/niludadisanayaka">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=niludadisanayaka&theme=tokyonight&hide_border=true" alt="Niluda's GitHub Streak" width="100%" />
+  </a>
 </div>
 
 ---
