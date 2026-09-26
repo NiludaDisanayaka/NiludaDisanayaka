@@ -148,7 +148,7 @@ Problem Solving   █████████████████░░░�
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=niludadisanayaka&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
+<img src="https://ghchart.rshah.org/2E97F7/niludadisanayaka" width="95%" alt="GitHub Contribution Graph"/>
 
 </div>
 ---
