@@ -30,7 +30,7 @@
 
 🐛 I enjoy solving problems, fixing bugs, and turning ideas into working applications.
 
-📍 **Sri Lanka 🇱🇰**
+📍 **Sri Lanka**
 
 📫 **Email:** `dissanayakaniluda@gmail.com`
 
