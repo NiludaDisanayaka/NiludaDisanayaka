@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=NiludaDisanayaka&label=PROFILE%20VIEWS&color=2E97F7&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=NiludaDisanayaka&label=PROFILE%20VIEWS&color=2E97F7&style=for-the-badge" alt="Profile Views"/ >
 <img src="https://img.shields.io/badge/Status-Studying-2E97F7?style=for-the-badge" alt="Status"/>
 <img src="https://img.shields.io/badge/Open%20to-Collaboration-6DD5FA?style=for-the-badge" alt="Collaboration"/>
 
