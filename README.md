@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNiludaDisanayaka&count_bg=%2F2E97F7&title_bg=%2F555555&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=NiludaDisanayaka&label=PROFILE%20VIEWS&color=2E97F7&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/badge/Status-Studying-2E97F7?style=for-the-badge" alt="Status"/>
 <img src="https://img.shields.io/badge/Open%20to-Collaboration-6DD5FA?style=for-the-badge" alt="Collaboration"/>
 
